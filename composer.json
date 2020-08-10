@@ -1,6 +1,6 @@
 {
     "name": "mphpmaster/migration-snapshot",
-    "description": "hlaCk Migration Snapshot Laravel helper",
+    "description": "hlaCk Laravel Migration Snapshot helper By hlaCk",
     "type": "library",
     "require": {
         "php": ">=7.4",

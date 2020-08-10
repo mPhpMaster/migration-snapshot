@@ -14,7 +14,7 @@ final class LoadCommand extends Command
         {--t|tables : Do re-migrate tables before loading data}
         {--force : Force the operation to run when in production}';
 
-    protected $description = 'Load current database data from plain-text SQL file.';
+        protected $description = 'Load current database data from plain-text SQL file.';
 
     protected function configure()
     {
